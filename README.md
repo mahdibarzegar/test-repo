@@ -6,3 +6,7 @@
 
 - نام: Mahdi Barzegar
 - تخصص: Frontend Developer
+
+## اولین Auto-Deploy 🚀
+
+تغییرات به‌صورت خودکار deploy می‌شود!
